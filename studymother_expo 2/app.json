@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Studymother",
+    "slug": "sm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.war1007.studymother",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "33165763-1a14-4a5b-8b3e-56c94d21c0c5"
+      }
+    }
+  }
+}
