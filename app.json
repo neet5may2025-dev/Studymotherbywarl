@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "StudyMother",
+    "slug": "sm",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.js.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
